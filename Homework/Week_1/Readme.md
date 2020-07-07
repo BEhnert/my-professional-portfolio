@@ -17,7 +17,7 @@ Summary of modifications
         Fixed link for "search-engine-optimization" by adding id to match link in nav section
 
     Consolidate css selectors and properties and organize to follow html flow
-        Remove repetive classes with same properties
+        Remove repetive classes with same property settings
         Defined class services to replace existing 3 and also updated styles of elements within the services class, consolidating to just 1 for img and h2
 
         Defined class benefit-sub to replace existing 3 and also updated styles of elements 
@@ -36,8 +36,11 @@ Summary of modifications
     Add descriptive alt attributes to all images
         Add alt text descriptions to all images
 
-    Additonal changes
-    Changed nav font-size in css to be 24 instead of 20
+    Edit title of page to be concise, yet descriptive
+        Changed from 'website' to company name and key services
+
+
+    ********Additonal changes************
+    Changed <nav> font-size in css to be 24 instead of 20
     Changed color and capitalized SEO in Horiseon to stand out
-    ****Possibly change the <p> elements
-    ****Heart in footer
+    Moved url of "hero" to img in html and left width as 100% with margin-bottom to scale image better on different size screens    

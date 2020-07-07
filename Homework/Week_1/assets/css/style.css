@@ -54,6 +54,7 @@ p {
 
 /* Moved background image to html as image, set only width to 100% to allow re-sizing of page without image distortion */
 .hero img{
+    height:auto;
     width: 100%;
     margin-bottom: 25px;
 }
