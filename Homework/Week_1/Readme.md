@@ -42,5 +42,9 @@ Summary of modifications
 
     ********Additonal changes************
     Changed <nav> font-size in css to be 24 instead of 20
+
     Changed color and capitalized SEO in Horiseon to stand out
+    
     Moved url of "hero" to img in html and left width as 100% with margin-bottom to scale image better on different size screens    
+    
+    Changed <aside> height to be 940 pixels to match main content services area (300*3+20+20), probably better way to do this with grids and alignment but wanted bottom borders to match aesthetically
